@@ -1,0 +1,24 @@
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.exe.config
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.exe
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.pdb
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.xml
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.frmSimpleCalculator.resources
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.Resources.resources
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.vbproj.GenerateResource.Cache
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.exe
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.xml
+\\vbefls01\noelkennedy$\visual studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.pdb
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.exe.config
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.exe
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.xml
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.pdb
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.exe
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.pdb
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.xml
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.frmSimpleCalculator.resources
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.Resources.resources
+H:\Visual Studio 2012\Projects\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.vbproj.GenerateResource.Cache
+H:\OOP\solSimpleCalc\solSimpleCalc\projSimpleCalc\bin\Debug\projSimpleCalc.exe.config
+H:\OOP\solSimpleCalc\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.exe
+H:\OOP\solSimpleCalc\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.xml
+H:\OOP\solSimpleCalc\solSimpleCalc\projSimpleCalc\obj\Debug\projSimpleCalc.pdb
